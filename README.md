@@ -25,6 +25,7 @@ Nothing here is polished. Everything is real, tested, and runs on a device.
 ---
 
 ## I — Business বুনিয়াদ
+**[Read the brief →](briefs/Business-Buniyad-Project-Brief.pdf)**
 **A Bengali-first business ledger for shopkeepers. Android. Working build, unreleased.**
 
 Bangladesh has over sixteen million small businesses. Most keep their books on paper,
@@ -53,6 +54,7 @@ defensible.
 ---
 
 ## II — The Forge
+**[Read the brief →](briefs/The-Forge-Project-Brief.pdf)**
 **A multi-day water-fasting instrument. Android. Working build, unreleased.**
 
 Every fasting app on the store is a wellness product: streaks, confetti, push guilt,
@@ -86,6 +88,7 @@ restart.
 ---
 
 ## III — Zen PDF Studio
+**[Read the brief →](briefs/Zen-PDF-Studio-Project-Brief.pdf)**
 **An offline manuscript studio. Windows desktop app and single HTML file.**
 
 Markdown-lite in, paginated Bangla-safe pages out. Eleven contrast-tuned themes, a
@@ -114,6 +117,7 @@ fall back.
 ---
 
 ## IV — Flow of Consciousness
+**[Read the brief →](briefs/Flow-of-Consciousness-Project-Brief.pdf)**
 **A structured learning system. Written; corpus indexed.**
 
 Not a course and not a chatbot prompt. One teacher that holds an entire reading list,
@@ -147,6 +151,7 @@ escape it.
 ---
 
 ## V — SOVEREIGN LIBRARY
+**[Read the brief →](briefs/SOVEREIGN-LIBRARY-Project-Brief.pdf)**
 **A prompt-engineering law library. 28 numbered files, five pillars, an executable core.**
 
 A library of law, not a library of tips. Everything a language model is asked to do —
@@ -174,6 +179,7 @@ Standard library only. No install dependencies. Platform-agnostic core.
 ---
 
 ## VI — ARTHA
+**[Read the brief →](briefs/ARTHA-Project-Brief.pdf)**
 **A personal wealth system. The AI analyses and never executes.**
 
 Named for the Arthashastra — Kautilya's treatise on economics and statecraft,
@@ -203,6 +209,7 @@ you pay the smallest possible version of it and survive to use the lesson.
 ---
 
 ## VII — CAIRN
+**[Read the brief →](briefs/CAIRN-Project-Brief.pdf)**
 **An astrological computation engine.** The machine is the product.
 
 A container engine that computes a natal chart across four traditions — **Vedic,
